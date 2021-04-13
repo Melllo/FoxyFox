@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - VOLUME_SLIDER
+  - VOLUME_VALUE
+  - MUSIC_CREATOR
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Entity
+  - Background
+  - Platform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1372893
+    locked: 0
+  - name: Entity
+    uniqueID: 3087890697
+    locked: 0
+  - name: Platform
+    uniqueID: 2201340137
+    locked: 0
